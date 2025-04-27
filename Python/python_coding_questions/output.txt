@@ -1,0 +1,2 @@
+Python is great for automation.
+Automation is the future.

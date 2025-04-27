@@ -1,0 +1,4 @@
+This is a test line.
+Python is great for automation.
+I love programming.
+Automation is the future.

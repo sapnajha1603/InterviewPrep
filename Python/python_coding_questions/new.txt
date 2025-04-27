@@ -1,0 +1,2 @@
+this is a sample document.
+Document handling is interesting.
